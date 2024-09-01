@@ -51,7 +51,7 @@ By providing cross-platform support, developers can target multiple platforms fr
 > Console development is also unique in that the MonoGame Foundation can only provide the console-specific portions once developers have been approved by that console manufacturer. This is due to licensing terms and agreements imposed by console manufacturers.
 
 ## Programming Languages
-MonoGame is designed and built in C#, a powerful and modern language developed by Microsoft.  It is the official programming language supported documentation, samples, and community discussion.  However, MonoGame is not exclusively tied to C#.  As a .NET library, MonoGame can be used with any .NET-compatible language including Visual Basic and F#.  While the alternative .NET languages can be used, community help and support may be limited.
+MonoGame is designed and built in C#, a powerful and modern language developed by Microsoft.  It is the officially supported programming language for documentation, samples, and community discussion.  However, MonoGame is not exclusively tied to C#.  As a .NET library, MonoGame can be used with any .NET-compatible language including Visual Basic and F#.  While the alternative .NET languages can be used, community help and support may be limited.
 
 Developers should have a foundational understanding of C# and programming concepts such as:
 
